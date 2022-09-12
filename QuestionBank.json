@@ -1,0 +1,485 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "香港各金融監管機構的共同宗旨是：",
+      "correct_answer": "透過確保在盡可能少監管的情況下仍能維適當的市場監督。",
+      "incorrect_answers": [
+        "確保經紀等中介人的利益受到保障。",
+        "穩定聯繫匯率，以防國際投機者衝擊。",
+        "加強對中介人的直接監督。"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "根據《證券及期貨條例》，證監會的目標包括：I. 維持及促進證券期貨業的公平、效率、競爭力、透明度及秩序。II. 向投資公眾提供保障。III. 減低在證券期貨業內的系統風險。IV. 提高證券及期貨經紀的盈利能力。",
+      "correct_answer": "A. I、II、III",
+      "incorrect_answers": [
+        "B. I、II、IV",
+        "C. I、III、IV",
+        "D. I、II、III、IV"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The song &#039;Little April Shower&#039; features in which Disney cartoon film?",
+      "correct_answer": "Bambi",
+      "incorrect_answers": [
+        "Cinderella",
+        "Pinocchio",
+        "The Jungle Book"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?",
+      "correct_answer": "Trent Reznor",
+      "incorrect_answers": [
+        "Marilyn Manson",
+        "Robin Finck",
+        "Josh Homme"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who sang the theme song for the TV show &#039;Rawhide&#039;?",
+      "correct_answer": "Frankie Laine",
+      "incorrect_answers": [
+        "Guy Mitchell",
+        " Tennessee Ernie Ford",
+        "Slim Whitman"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When Gmail first launched, how much storage did it provide for your email?",
+      "correct_answer": "1GB",
+      "incorrect_answers": [
+        "512MB",
+        "5GB",
+        "Unlimited"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+      "correct_answer": "Samoyedic",
+      "incorrect_answers": [
+        "Hungarian",
+        "Finnish",
+        "Estonian"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the fighting game &quot;Skullgirls,&quot; which character utilizes a folding chair called the &quot;Hurting&quot; as a weapon?",
+      "correct_answer": "Beowulf",
+      "incorrect_answers": [
+        "Big Band",
+        "Squigly",
+        "Cerebella"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many time zones does China have?",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "3",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
+      "correct_answer": "Ursus Maritimus",
+      "incorrect_answers": [
+        "Polar Bear",
+        "Ursus Spelaeus",
+        "Ursus Arctos"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the server hosting industry IaaS stands for...",
+      "correct_answer": "Infrastructure as a Service",
+      "incorrect_answers": [
+        "Internet as a Service",
+        "Internet and a Server",
+        "Infrastructure as a Server"
+      ]
+    },
+    {
+      "category": "Science: Gadgets",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+      "correct_answer": "Courage",
+      "incorrect_answers": [
+        "Innovation",
+        "Revolution",
+        "Bravery"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What song plays in the ending credits of the anime &quot;Ergo Proxy&quot;?",
+      "correct_answer": "Paranoid Android",
+      "incorrect_answers": [
+        "Sadistic Summer",
+        "Bittersweet Symphony",
+        "Mad World"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+      "correct_answer": "Earth",
+      "incorrect_answers": [
+        "Venus",
+        "Mars",
+        "Uranus"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+      "correct_answer": "Chile",
+      "incorrect_answers": [
+        "Argentina",
+        "Brazil",
+        "Paraguay"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of the protagonist in the movie Commando (1985)?",
+      "correct_answer": "John Matrix",
+      "incorrect_answers": [
+        "Ben Richards",
+        "Douglas Quaid",
+        "Harry Tasker"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the show &quot;Steven Universe&quot;, who are the main two employees of The Big Donut?",
+      "correct_answer": "Sadie and Lars",
+      "incorrect_answers": [
+        "Steven and James",
+        "Erik and Julie",
+        "Bob and May"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these book series is by James Patterson?",
+      "correct_answer": "Maximum Ride",
+      "incorrect_answers": [
+        "Harry Potter",
+        "The Legend of Xanth",
+        "The Bartemaeus Trilogy"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ellen McLain, the voice of GLaDOS in the Portal game series, is married to the voice actor for which Team Fortress 2 character?",
+      "correct_answer": "Sniper",
+      "incorrect_answers": [
+        "Heavy",
+        "Soldier",
+        "Scout"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Dota 2, what is Earthshaker&#039;s real name?",
+      "correct_answer": "Raigor Stonehoof",
+      "incorrect_answers": [
+        "Banehallow Ambry",
+        "Carl",
+        "Barathrum"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first Android version specifically optimized for tablets?",
+      "correct_answer": "Honeycomb",
+      "incorrect_answers": [
+        "Eclair",
+        "Froyo",
+        "Marshmellow"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In 2008, British celebrity chef Gordon Ramsay believes he almost died after suffering what accident in Iceland while filming?",
+      "correct_answer": "Slipping off a cliff, and nearly drowning in icy water",
+      "incorrect_answers": [
+        "Crash landing when arriving at Keflav&iacute;k airport",
+        "A minor car accident in a snowstorm",
+        "Being served under-cooked chicken at his hotel"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "From which album is the Gorillaz song, &quot;On Melancholy Hill&quot; featured in?",
+      "correct_answer": "Plastic Beach",
+      "incorrect_answers": [
+        "Demon Days",
+        "Humanz",
+        "The Fall"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who invented the &quot;Spanning Tree Protocol&quot;?",
+      "correct_answer": "Radia Perlman",
+      "incorrect_answers": [
+        "Paul Vixie",
+        "Vint Cerf",
+        "Michael Roberts"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Earl Grey tea is black tea flavoured with what?",
+      "correct_answer": "Bergamot oil",
+      "incorrect_answers": [
+        "Lavender",
+        "Vanilla",
+        "Honey"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which card is on the cover of the Beta rulebook of &quot;Magic: The Gathering&quot;?",
+      "correct_answer": "Bog Wraith",
+      "incorrect_answers": [
+        "Island",
+        "Rock Hydra",
+        "Elvish Archers"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the last name of the primary female protagonist of Final Fantasy VIII?",
+      "correct_answer": "Heartilly",
+      "incorrect_answers": [
+        "Loire",
+        "Almasy",
+        "Trepe"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the real name of &quot;Warhead&quot; in the Sega Genesis game &quot;Vectorman&quot;?",
+      "correct_answer": "Raster",
+      "incorrect_answers": [
+        "Peacehead",
+        "Vectorkid",
+        "Bitmap"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which one of these is NOT an official map in Counter-Strike: Global Offensive?",
+      "correct_answer": "de_season",
+      "incorrect_answers": [
+        "de_sugarcane",
+        "de_canals",
+        "de_militia"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?",
+      "correct_answer": "Plan 9 from Outer Space",
+      "incorrect_answers": [
+        "The Man from Planet X",
+        "It Came from Outer Space",
+        "The Day The Earth Stood Still"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Flag of the European Union has how many stars on it?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "10",
+        "14",
+        "16"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not in the Indo-European language family?",
+      "correct_answer": "Finnish",
+      "incorrect_answers": [
+        "English",
+        "Hindi",
+        "Russian"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Nintendo 64 game did NOT have Luigi in it?",
+      "correct_answer": "Super Mario 64",
+      "incorrect_answers": [
+        "Mario Party 2",
+        "Paper Mario",
+        "Super Smash Bros."
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the most commonly used noun in the English language?",
+      "correct_answer": "Time",
+      "incorrect_answers": [
+        "Home",
+        "Water",
+        "Man"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Marvel superhero did Chris Evans play prior to his role as Captain America?",
+      "correct_answer": "Human Torch",
+      "incorrect_answers": [
+        "Cyclops",
+        "Iceman",
+        "Daredevil"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the longest river in Europe?",
+      "correct_answer": "Volga",
+      "incorrect_answers": [
+        "Danube",
+        "Rhine",
+        "Thames"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these founding fathers of the United States of America later became president?",
+      "correct_answer": "James Monroe",
+      "incorrect_answers": [
+        "Alexander Hamilton",
+        "Samuel Adams",
+        "Roger Sherman"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek HKSI: Paper1?",
+      "correct_answer": "Bull",
+      "incorrect_answers": [
+        "Pig",
+        "Ox",
+        "Horse"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many partners can you obtain in Paper Mario: The Thousand-Year Door?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "6",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "category": "HKSI: Paper1",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Homestuck character Gamzee&#039;s last name?",
+      "correct_answer": "Makara",
+      "incorrect_answers": [
+        "Makera",
+        "Makare",
+        "Makrea"
+      ]
+    }
+  ]
+}
