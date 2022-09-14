@@ -1,0 +1,28 @@
+{
+    "results": [
+      {
+        "category": "HKSI: Paper1",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "香港各金融監管機構的共同宗旨是：",
+        "correct_answer": "透過確保在盡可能少監管的情況下仍能維適當的市場監督。",
+        "incorrect_answers": [
+          "確保經紀等中介人的利益受到保障。",
+          "穩定聯繫匯率，以防國際投機者衝擊。",
+          "加強對中介人的直接監督。"
+        ]
+      },
+      {
+        "category": "HKSI: Paper1",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "根據《證券及期貨條例》，證監會的目標包括：I. 維持及促進證券期貨業的公平、效率、競爭力、透明度及秩序。II. 向投資公眾提供保障。III. 減低在證券期貨業內的系統風險。IV. 提高證券及期貨經紀的盈利能力。",
+        "correct_answer": "A. I、II、III",
+        "incorrect_answers": [
+          "B. I、II、IV",
+          "C. I、III、IV",
+          "D. I、II、III、IV"
+        ]
+      }
+    ]
+} 
