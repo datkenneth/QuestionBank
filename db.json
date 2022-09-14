@@ -1,121 +1,28 @@
 {
-  "response_code":0,
-  "results":[
-     {
-        "category":"Entertainment: Video Games",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"How many games in the Crash Bandicoot series were released on the original Playstation?",
-        "correct_answer":"5",
-        "incorrect_answers":[
-           "4",
-           "3",
-           "6"
+    "results": [
+      {
+        "category": "HKSI: Paper1",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "香港各金融監管機構的共同宗旨是：",
+        "correct_answer": "透過確保在盡可能少監管的情況下仍能維適當的市場監督。",
+        "incorrect_answers": [
+          "確保經紀等中介人的利益受到保障。",
+          "穩定聯繫匯率，以防國際投機者衝擊。",
+          "加強對中介人的直接監督。"
         ]
-     },
-     {
-        "category":"Entertainment: Television",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"In the show &quot;Tengen Toppa Gurren Lagann&quot; what is the name of the character who force everyone to live underground?",
-        "correct_answer":"Lordgenome",
-        "incorrect_answers":[
-           "Kingloname",
-           "Lord Genome",
-           "King Loname"
+      },
+      {
+        "category": "HKSI: Paper1",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "根據《證券及期貨條例》，證監會的目標包括：I. 維持及促進證券期貨業的公平、效率、競爭力、透明度及秩序。II. 向投資公眾提供保障。III. 減低在證券期貨業內的系統風險。IV. 提高證券及期貨經紀的盈利能力。",
+        "correct_answer": "A. I、II、III",
+        "incorrect_answers": [
+          "B. I、II、IV",
+          "C. I、III、IV",
+          "D. I、II、III、IV"
         ]
-     },
-     {
-        "category":"Entertainment: Books",
-        "type":"multiple",
-        "difficulty":"medium",
-        "question":"The book &quot;The Little Prince&quot; was written by...",
-        "correct_answer":"Antoine de Saint-Exup&eacute;ry",
-        "incorrect_answers":[
-           "Miguel de Cervantes Saavedra",
-           "Jane Austen",
-           "F. Scott Fitzgerald"
-        ]
-     },
-     {
-        "category":"Animals",
-        "type":"boolean",
-        "difficulty":"easy",
-        "question":"A caterpillar has more muscles than humans do.",
-        "correct_answer":"True",
-        "incorrect_answers":[
-           "False"
-        ]
-     },
-     {
-        "category":"Entertainment: Music",
-        "type":"boolean",
-        "difficulty":"easy",
-        "question":"Stevie Wonder&#039;s real name is Stevland Hardaway Morris.",
-        "correct_answer":"True",
-        "incorrect_answers":[
-           "False"
-        ]
-     },
-     {
-        "category":"Science: Computers",
-        "type":"multiple",
-        "difficulty":"hard",
-        "question":"Which of these is not a key value of Agile software development?",
-        "correct_answer":"Comprehensive documentation",
-        "incorrect_answers":[
-           "Individuals and interactions",
-           "Customer collaboration",
-           "Responding to change"
-        ]
-     },
-     {
-        "category":"Entertainment: Music",
-        "type":"multiple",
-        "difficulty":"medium",
-        "question":"Which member of &quot;The Beatles&quot; narrated episodes of &quot;Thomas the Tank Engine&quot;?",
-        "correct_answer":"Ringo Starr",
-        "incorrect_answers":[
-           "George Harrison",
-           "John Lennon",
-           "Paul McCartney"
-        ]
-     },
-     {
-        "category":"Entertainment: Video Games",
-        "type":"multiple",
-        "difficulty":"medium",
-        "question":"What CoD &quot;Deathstreak&quot; is only featured in Call of Duty : Modern Warfare 2?",
-        "correct_answer":"Copycat",
-        "incorrect_answers":[
-           " Martrydom",
-           "Final Stand",
-           "Revenge"
-        ]
-     },
-     {
-        "category":"History",
-        "type":"multiple",
-        "difficulty":"easy",
-        "question":"In what year did the Great Northern War, between Russia and Sweden, end?",
-        "correct_answer":"1721",
-        "incorrect_answers":[
-           "1726",
-           "1727",
-           "1724"
-        ]
-     },
-     {
-        "category":"Celebrities",
-        "type":"multiple",
-        "difficulty":"medium",
-        "question":"What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?",
-        "correct_answer":"Bullying",
-        "incorrect_answers":[
-           "Criminal Record",
-           "Nomination for Worst Actor",
-           "Racism"
-        ]
-     }
-  ]
-}
+      }
+    ]
+} 
